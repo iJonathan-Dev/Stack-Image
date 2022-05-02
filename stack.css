@@ -1,0 +1,21 @@
+.div_stack_img{
+    height:720px;
+}
+
+.stack_img{
+    position:absolute;
+    top:0;
+    display: none;
+}
+
+#stack_img_1{
+    transform: rotate(3deg)
+}
+
+#stack_img_2{
+    transform: rotate(-3deg)
+}
+
+#stack_img_3{
+    transform: rotate(1deg)
+}
